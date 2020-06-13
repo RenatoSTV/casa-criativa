@@ -23,3 +23,4 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 - [Nodemon](https://www.npmjs.com/package/nodemon)
 - [Nunjucks](https://mozilla.github.io/nunjucks/)
 
+Curso disponivel no canal do Youtube da <a href="https://www.youtube.com/playlist?list=PL85ITvJ7FLohGTWaE_p0J6B-TLmQbN4ka">Rocketseat</a>
