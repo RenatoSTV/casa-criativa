@@ -2,15 +2,15 @@
     <img src="https://i.imgur.com/fkffWYG.png">
 </h1>
 
-## 📧 Sobre
+## 📧  Sobre
 
 O projeto **Casa Criativa** é site que reúne ideias para serem realizadas durante esse periodo de quarentena. Ele foi desenvolvido durante o curso "**WorkshoDev**", oferecido pela <a href="Rocketseat.com.br" target="_blanck">**Rocketseat**</a> e ministrado pelo professor <a href="https://www.gitshowcase.com/maykbrito">**Mayk Brito**</a>.
 
-## 📷 Imagens do Projeto
+## 📷  Imagens do Projeto
 
 <img src="https://i.imgur.com/Y8tEvIW.png">
 
-## ⚙ Tecnologias Utilizadas
+## ⚙  Tecnologias Utilizadas
 
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
